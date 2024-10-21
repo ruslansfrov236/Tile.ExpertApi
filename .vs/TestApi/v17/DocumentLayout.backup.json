@@ -3,48 +3,200 @@
   "WorkspaceRootPath": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BDFB8A0C-50E3-435E-A384-BDE53FF01508}|test.api\\test.api.csproj|c:\\users\\rusla\\onedrive\\s\u0259n\u0259dl\u0259r\\full-stack\\test\\testapi\\test.api\\controllers\\tagscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BDFB8A0C-50E3-435E-A384-BDE53FF01508}|test.api\\test.api.csproj|solutionrelative:test.api\\controllers\\tagscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EABC434D-E988-47B5-B838-4FC431BAA245}|test.business\\test.business.csproj|c:\\users\\rusla\\onedrive\\s\u0259n\u0259dl\u0259r\\full-stack\\test\\testapi\\test.business\\concrete\\tagscheckboxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EABC434D-E988-47B5-B838-4FC431BAA245}|test.business\\test.business.csproj|solutionrelative:test.business\\concrete\\tagscheckboxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EABC434D-E988-47B5-B838-4FC431BAA245}|test.business\\test.business.csproj|c:\\users\\rusla\\onedrive\\s\u0259n\u0259dl\u0259r\\full-stack\\test\\testapi\\test.business\\concrete\\tagsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EABC434D-E988-47B5-B838-4FC431BAA245}|test.business\\test.business.csproj|solutionrelative:test.business\\concrete\\tagsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2ADDD497-181F-4C04-B6D7-453C4C2284B1}|test.data\\test.data.csproj|c:\\users\\rusla\\onedrive\\s\u0259n\u0259dl\u0259r\\full-stack\\test\\testapi\\test.data\\concrete\\tagscheckbox\\tagscheckboxreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ADDD497-181F-4C04-B6D7-453C4C2284B1}|test.data\\test.data.csproj|solutionrelative:test.data\\concrete\\tagscheckbox\\tagscheckboxreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EABC434D-E988-47B5-B838-4FC431BAA245}|test.business\\test.business.csproj|c:\\users\\rusla\\onedrive\\s\u0259n\u0259dl\u0259r\\full-stack\\test\\testapi\\test.business\\abstract\\itagsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EABC434D-E988-47B5-B838-4FC431BAA245}|test.business\\test.business.csproj|solutionrelative:test.business\\abstract\\itagsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2ADDD497-181F-4C04-B6D7-453C4C2284B1}|test.data\\test.data.csproj|c:\\users\\rusla\\onedrive\\s\u0259n\u0259dl\u0259r\\full-stack\\test\\testapi\\test.data\\abstract\\tagscheckbox\\itagscheckboxwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ADDD497-181F-4C04-B6D7-453C4C2284B1}|test.data\\test.data.csproj|solutionrelative:test.data\\abstract\\tagscheckbox\\itagscheckboxwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EABC434D-E988-47B5-B838-4FC431BAA245}|test.business\\test.business.csproj|c:\\users\\rusla\\onedrive\\s\u0259n\u0259dl\u0259r\\full-stack\\test\\testapi\\test.business\\abstract\\ihistoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EABC434D-E988-47B5-B838-4FC431BAA245}|test.business\\test.business.csproj|solutionrelative:test.business\\abstract\\ihistoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2ADDD497-181F-4C04-B6D7-453C4C2284B1}|test.data\\test.data.csproj|c:\\users\\rusla\\onedrive\\s\u0259n\u0259dl\u0259r\\full-stack\\test\\testapi\\test.data\\abstract\\tagscheckbox\\itagscheckboxreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ADDD497-181F-4C04-B6D7-453C4C2284B1}|test.data\\test.data.csproj|solutionrelative:test.data\\abstract\\tagscheckbox\\itagscheckboxreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.api\\Controllers\\HistoryController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:test.api\\Controllers\\HistoryController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2ADDD497-181F-4C04-B6D7-453C4C2284B1}|test.data\\test.data.csproj|c:\\users\\rusla\\onedrive\\s\u0259n\u0259dl\u0259r\\full-stack\\test\\testapi\\test.data\\concrete\\tagscheckbox\\tagscheckboxwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ADDD497-181F-4C04-B6D7-453C4C2284B1}|test.data\\test.data.csproj|solutionrelative:test.data\\concrete\\tagscheckbox\\tagscheckboxwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDFB8A0C-50E3-435E-A384-BDE53FF01508}|test.api\\test.api.csproj|c:\\users\\rusla\\onedrive\\s\u0259n\u0259dl\u0259r\\full-stack\\test\\testapi\\test.api\\test.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{BDFB8A0C-50E3-435E-A384-BDE53FF01508}|test.api\\test.api.csproj|solutionrelative:test.api\\test.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{BDFB8A0C-50E3-435E-A384-BDE53FF01508}|test.api\\test.api.csproj|c:\\users\\rusla\\onedrive\\s\u0259n\u0259dl\u0259r\\full-stack\\test\\testapi\\test.api\\controllers\\tagscheckboxcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDFB8A0C-50E3-435E-A384-BDE53FF01508}|test.api\\test.api.csproj|solutionrelative:test.api\\controllers\\tagscheckboxcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADDD497-181F-4C04-B6D7-453C4C2284B1}|test.data\\test.data.csproj|c:\\users\\rusla\\onedrive\\s\u0259n\u0259dl\u0259r\\full-stack\\test\\testapi\\test.data\\concrete\\readrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ADDD497-181F-4C04-B6D7-453C4C2284B1}|test.data\\test.data.csproj|solutionrelative:test.data\\concrete\\readrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EABC434D-E988-47B5-B838-4FC431BAA245}|test.business\\test.business.csproj|c:\\users\\rusla\\onedrive\\s\u0259n\u0259dl\u0259r\\full-stack\\test\\testapi\\test.business\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EABC434D-E988-47B5-B838-4FC431BAA245}|test.business\\test.business.csproj|solutionrelative:test.business\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EABC434D-E988-47B5-B838-4FC431BAA245}|test.business\\test.business.csproj|c:\\users\\rusla\\onedrive\\s\u0259n\u0259dl\u0259r\\full-stack\\test\\testapi\\test.business\\concrete\\historyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EABC434D-E988-47B5-B838-4FC431BAA245}|test.business\\test.business.csproj|solutionrelative:test.business\\concrete\\historyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2ADDD497-181F-4C04-B6D7-453C4C2284B1}|test.data\\test.data.csproj|c:\\users\\rusla\\onedrive\\s\u0259n\u0259dl\u0259r\\full-stack\\test\\testapi\\test.data\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ADDD497-181F-4C04-B6D7-453C4C2284B1}|test.data\\test.data.csproj|solutionrelative:test.data\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2ADDD497-181F-4C04-B6D7-453C4C2284B1}|test.data\\test.data.csproj|c:\\users\\rusla\\onedrive\\s\u0259n\u0259dl\u0259r\\full-stack\\test\\testapi\\test.data\\filter\\validationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2ADDD497-181F-4C04-B6D7-453C4C2284B1}|test.data\\test.data.csproj|solutionrelative:test.data\\filter\\validationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\Migrations\\20241021161456_mg_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:test.data\\Migrations\\20241021161456_mg_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDFB8A0C-50E3-435E-A384-BDE53FF01508}|test.api\\test.api.csproj|c:\\users\\rusla\\onedrive\\s\u0259n\u0259dl\u0259r\\full-stack\\test\\testapi\\test.api\\controllers\\tagscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDFB8A0C-50E3-435E-A384-BDE53FF01508}|test.api\\test.api.csproj|solutionrelative:test.api\\controllers\\tagscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADDD497-181F-4C04-B6D7-453C4C2284B1}|test.data\\test.data.csproj|c:\\users\\rusla\\onedrive\\s\u0259n\u0259dl\u0259r\\full-stack\\test\\testapi\\test.data\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ADDD497-181F-4C04-B6D7-453C4C2284B1}|test.data\\test.data.csproj|solutionrelative:test.data\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB8A7FA6-3F73-463E-AB53-EEF18E0D2020}|test.entity\\test.entity.csproj|c:\\users\\rusla\\onedrive\\s\u0259n\u0259dl\u0259r\\full-stack\\test\\testapi\\test.entity\\entities\\tagscheckboxes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB8A7FA6-3F73-463E-AB53-EEF18E0D2020}|test.entity\\test.entity.csproj|solutionrelative:test.entity\\entities\\tagscheckboxes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADDD497-181F-4C04-B6D7-453C4C2284B1}|test.data\\test.data.csproj|c:\\users\\rusla\\onedrive\\s\u0259n\u0259dl\u0259r\\full-stack\\test\\testapi\\test.data\\concrete\\tags\\tagsreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ADDD497-181F-4C04-B6D7-453C4C2284B1}|test.data\\test.data.csproj|solutionrelative:test.data\\concrete\\tags\\tagsreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EABC434D-E988-47B5-B838-4FC431BAA245}|test.business\\test.business.csproj|c:\\users\\rusla\\onedrive\\s\u0259n\u0259dl\u0259r\\full-stack\\test\\testapi\\test.business\\abstract\\itagsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EABC434D-E988-47B5-B838-4FC431BAA245}|test.business\\test.business.csproj|solutionrelative:test.business\\abstract\\itagsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EABC434D-E988-47B5-B838-4FC431BAA245}|test.business\\test.business.csproj|c:\\users\\rusla\\onedrive\\s\u0259n\u0259dl\u0259r\\full-stack\\test\\testapi\\test.business\\abstract\\itagscheckboxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EABC434D-E988-47B5-B838-4FC431BAA245}|test.business\\test.business.csproj|solutionrelative:test.business\\abstract\\itagscheckboxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EABC434D-E988-47B5-B838-4FC431BAA245}|test.business\\test.business.csproj|c:\\users\\rusla\\onedrive\\s\u0259n\u0259dl\u0259r\\full-stack\\test\\testapi\\test.business\\test.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EABC434D-E988-47B5-B838-4FC431BAA245}|test.business\\test.business.csproj|solutionrelative:test.business\\test.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADDD497-181F-4C04-B6D7-453C4C2284B1}|test.data\\test.data.csproj|c:\\users\\rusla\\onedrive\\s\u0259n\u0259dl\u0259r\\full-stack\\test\\testapi\\test.data\\test.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2ADDD497-181F-4C04-B6D7-453C4C2284B1}|test.data\\test.data.csproj|solutionrelative:test.data\\test.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB8A7FA6-3F73-463E-AB53-EEF18E0D2020}|test.entity\\test.entity.csproj|c:\\users\\rusla\\onedrive\\s\u0259n\u0259dl\u0259r\\full-stack\\test\\testapi\\test.entity\\test.entity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FB8A7FA6-3F73-463E-AB53-EEF18E0D2020}|test.entity\\test.entity.csproj|solutionrelative:test.entity\\test.entity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\Migrations\\20241020153122_mg_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:test.data\\Migrations\\20241020153122_mg_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BDFB8A0C-50E3-435E-A384-BDE53FF01508}|test.api\\test.api.csproj|c:\\users\\rusla\\onedrive\\s\u0259n\u0259dl\u0259r\\full-stack\\test\\testapi\\test.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BDFB8A0C-50E3-435E-A384-BDE53FF01508}|test.api\\test.api.csproj|solutionrelative:test.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{FB8A7FA6-3F73-463E-AB53-EEF18E0D2020}|test.entity\\test.entity.csproj|c:\\users\\rusla\\onedrive\\s\u0259n\u0259dl\u0259r\\full-stack\\test\\testapi\\test.entity\\dto\\tagscheckbox\\updatetagscheckboxdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB8A7FA6-3F73-463E-AB53-EEF18E0D2020}|test.entity\\test.entity.csproj|solutionrelative:test.entity\\dto\\tagscheckbox\\updatetagscheckboxdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB8A7FA6-3F73-463E-AB53-EEF18E0D2020}|test.entity\\test.entity.csproj|c:\\users\\rusla\\onedrive\\s\u0259n\u0259dl\u0259r\\full-stack\\test\\testapi\\test.entity\\dto\\tagscheckbox\\createtagscheckboxdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB8A7FA6-3F73-463E-AB53-EEF18E0D2020}|test.entity\\test.entity.csproj|solutionrelative:test.entity\\dto\\tagscheckbox\\createtagscheckboxdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDFB8A0C-50E3-435E-A384-BDE53FF01508}|test.api\\test.api.csproj|c:\\users\\rusla\\onedrive\\s\u0259n\u0259dl\u0259r\\full-stack\\test\\testapi\\test.api\\test.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BDFB8A0C-50E3-435E-A384-BDE53FF01508}|test.api\\test.api.csproj|solutionrelative:test.api\\test.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EABC434D-E988-47B5-B838-4FC431BAA245}|test.business\\test.business.csproj|c:\\users\\rusla\\onedrive\\s\u0259n\u0259dl\u0259r\\full-stack\\test\\testapi\\test.business\\concrete\\tagsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EABC434D-E988-47B5-B838-4FC431BAA245}|test.business\\test.business.csproj|solutionrelative:test.business\\concrete\\tagsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADDD497-181F-4C04-B6D7-453C4C2284B1}|test.data\\test.data.csproj|c:\\users\\rusla\\onedrive\\s\u0259n\u0259dl\u0259r\\full-stack\\test\\testapi\\test.data\\filter\\validationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ADDD497-181F-4C04-B6D7-453C4C2284B1}|test.data\\test.data.csproj|solutionrelative:test.data\\filter\\validationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADDD497-181F-4C04-B6D7-453C4C2284B1}|test.data\\test.data.csproj|c:\\users\\rusla\\onedrive\\s\u0259n\u0259dl\u0259r\\full-stack\\test\\testapi\\test.data\\concrete\\history\\historywriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ADDD497-181F-4C04-B6D7-453C4C2284B1}|test.data\\test.data.csproj|solutionrelative:test.data\\concrete\\history\\historywriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADDD497-181F-4C04-B6D7-453C4C2284B1}|test.data\\test.data.csproj|c:\\users\\rusla\\onedrive\\s\u0259n\u0259dl\u0259r\\full-stack\\test\\testapi\\test.data\\concrete\\history\\historyreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ADDD497-181F-4C04-B6D7-453C4C2284B1}|test.data\\test.data.csproj|solutionrelative:test.data\\concrete\\history\\historyreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB8A7FA6-3F73-463E-AB53-EEF18E0D2020}|test.entity\\test.entity.csproj|c:\\users\\rusla\\onedrive\\s\u0259n\u0259dl\u0259r\\full-stack\\test\\testapi\\test.entity\\entities\\identity\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB8A7FA6-3F73-463E-AB53-EEF18E0D2020}|test.entity\\test.entity.csproj|solutionrelative:test.entity\\entities\\identity\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB8A7FA6-3F73-463E-AB53-EEF18E0D2020}|test.entity\\test.entity.csproj|c:\\users\\rusla\\onedrive\\s\u0259n\u0259dl\u0259r\\full-stack\\test\\testapi\\test.entity\\entities\\tags.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB8A7FA6-3F73-463E-AB53-EEF18E0D2020}|test.entity\\test.entity.csproj|solutionrelative:test.entity\\entities\\tags.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADDD497-181F-4C04-B6D7-453C4C2284B1}|test.data\\test.data.csproj|c:\\users\\rusla\\onedrive\\s\u0259n\u0259dl\u0259r\\full-stack\\test\\testapi\\test.data\\concrete\\writerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ADDD497-181F-4C04-B6D7-453C4C2284B1}|test.data\\test.data.csproj|solutionrelative:test.data\\concrete\\writerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB8A7FA6-3F73-463E-AB53-EEF18E0D2020}|test.entity\\test.entity.csproj|c:\\users\\rusla\\onedrive\\s\u0259n\u0259dl\u0259r\\full-stack\\test\\testapi\\test.entity\\entities\\wishlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB8A7FA6-3F73-463E-AB53-EEF18E0D2020}|test.entity\\test.entity.csproj|solutionrelative:test.entity\\entities\\wishlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\Migrations\\20241017144838_mg_6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:test.data\\Migrations\\20241017144838_mg_6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\Migrations\\20241017144437_mg_7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:test.data\\Migrations\\20241017144437_mg_7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB8A7FA6-3F73-463E-AB53-EEF18E0D2020}|test.entity\\test.entity.csproj|c:\\users\\rusla\\onedrive\\s\u0259n\u0259dl\u0259r\\full-stack\\test\\testapi\\test.entity\\entities\\identity\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB8A7FA6-3F73-463E-AB53-EEF18E0D2020}|test.entity\\test.entity.csproj|solutionrelative:test.entity\\entities\\identity\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB8A7FA6-3F73-463E-AB53-EEF18E0D2020}|test.entity\\test.entity.csproj|c:\\users\\rusla\\onedrive\\s\u0259n\u0259dl\u0259r\\full-stack\\test\\testapi\\test.entity\\entities\\enum\\rolemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB8A7FA6-3F73-463E-AB53-EEF18E0D2020}|test.entity\\test.entity.csproj|solutionrelative:test.entity\\entities\\enum\\rolemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EABC434D-E988-47B5-B838-4FC431BAA245}|test.business\\test.business.csproj|c:\\users\\rusla\\onedrive\\s\u0259n\u0259dl\u0259r\\full-stack\\test\\testapi\\test.business\\concrete\\requestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EABC434D-E988-47B5-B838-4FC431BAA245}|test.business\\test.business.csproj|solutionrelative:test.business\\concrete\\requestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EABC434D-E988-47B5-B838-4FC431BAA245}|test.business\\test.business.csproj|c:\\users\\rusla\\onedrive\\s\u0259n\u0259dl\u0259r\\full-stack\\test\\testapi\\test.business\\abstract\\irequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EABC434D-E988-47B5-B838-4FC431BAA245}|test.business\\test.business.csproj|solutionrelative:test.business\\abstract\\irequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EABC434D-E988-47B5-B838-4FC431BAA245}|test.business\\test.business.csproj|c:\\users\\rusla\\onedrive\\s\u0259n\u0259dl\u0259r\\full-stack\\test\\testapi\\test.business\\validator\\request\\createrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EABC434D-E988-47B5-B838-4FC431BAA245}|test.business\\test.business.csproj|solutionrelative:test.business\\validator\\request\\createrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB8A7FA6-3F73-463E-AB53-EEF18E0D2020}|test.entity\\test.entity.csproj|c:\\users\\rusla\\onedrive\\s\u0259n\u0259dl\u0259r\\full-stack\\test\\testapi\\test.entity\\entities\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB8A7FA6-3F73-463E-AB53-EEF18E0D2020}|test.entity\\test.entity.csproj|solutionrelative:test.entity\\entities\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EABC434D-E988-47B5-B838-4FC431BAA245}|test.business\\test.business.csproj|c:\\users\\rusla\\onedrive\\s\u0259n\u0259dl\u0259r\\full-stack\\test\\testapi\\test.business\\validator\\tags\\createtagsvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EABC434D-E988-47B5-B838-4FC431BAA245}|test.business\\test.business.csproj|solutionrelative:test.business\\validator\\tags\\createtagsvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB8A7FA6-3F73-463E-AB53-EEF18E0D2020}|test.entity\\test.entity.csproj|c:\\users\\rusla\\onedrive\\s\u0259n\u0259dl\u0259r\\full-stack\\test\\testapi\\test.entity\\dto\\request\\updaterequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB8A7FA6-3F73-463E-AB53-EEF18E0D2020}|test.entity\\test.entity.csproj|solutionrelative:test.entity\\dto\\request\\updaterequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB8A7FA6-3F73-463E-AB53-EEF18E0D2020}|test.entity\\test.entity.csproj|c:\\users\\rusla\\onedrive\\s\u0259n\u0259dl\u0259r\\full-stack\\test\\testapi\\test.entity\\dto\\request\\createrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB8A7FA6-3F73-463E-AB53-EEF18E0D2020}|test.entity\\test.entity.csproj|solutionrelative:test.entity\\dto\\request\\createrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADDD497-181F-4C04-B6D7-453C4C2284B1}|test.data\\test.data.csproj|c:\\users\\rusla\\onedrive\\s\u0259n\u0259dl\u0259r\\full-stack\\test\\testapi\\test.data\\concrete\\request\\requestwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ADDD497-181F-4C04-B6D7-453C4C2284B1}|test.data\\test.data.csproj|solutionrelative:test.data\\concrete\\request\\requestwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADDD497-181F-4C04-B6D7-453C4C2284B1}|test.data\\test.data.csproj|c:\\users\\rusla\\onedrive\\s\u0259n\u0259dl\u0259r\\full-stack\\test\\testapi\\test.data\\concrete\\request\\requestreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ADDD497-181F-4C04-B6D7-453C4C2284B1}|test.data\\test.data.csproj|solutionrelative:test.data\\concrete\\request\\requestreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADDD497-181F-4C04-B6D7-453C4C2284B1}|test.data\\test.data.csproj|c:\\users\\rusla\\onedrive\\s\u0259n\u0259dl\u0259r\\full-stack\\test\\testapi\\test.data\\abstract\\request\\irequestwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ADDD497-181F-4C04-B6D7-453C4C2284B1}|test.data\\test.data.csproj|solutionrelative:test.data\\abstract\\request\\irequestwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADDD497-181F-4C04-B6D7-453C4C2284B1}|test.data\\test.data.csproj|c:\\users\\rusla\\onedrive\\s\u0259n\u0259dl\u0259r\\full-stack\\test\\testapi\\test.data\\abstract\\request\\irequestreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ADDD497-181F-4C04-B6D7-453C4C2284B1}|test.data\\test.data.csproj|solutionrelative:test.data\\abstract\\request\\irequestreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EABC434D-E988-47B5-B838-4FC431BAA245}|test.business\\test.business.csproj|c:\\users\\rusla\\onedrive\\s\u0259n\u0259dl\u0259r\\full-stack\\test\\testapi\\test.business\\abstract\\ihistoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EABC434D-E988-47B5-B838-4FC431BAA245}|test.business\\test.business.csproj|solutionrelative:test.business\\abstract\\ihistoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EABC434D-E988-47B5-B838-4FC431BAA245}|test.business\\test.business.csproj|c:\\users\\rusla\\onedrive\\s\u0259n\u0259dl\u0259r\\full-stack\\test\\testapi\\test.business\\concrete\\historyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EABC434D-E988-47B5-B838-4FC431BAA245}|test.business\\test.business.csproj|solutionrelative:test.business\\concrete\\historyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EABC434D-E988-47B5-B838-4FC431BAA245}|test.business\\test.business.csproj|c:\\users\\rusla\\onedrive\\s\u0259n\u0259dl\u0259r\\full-stack\\test\\testapi\\test.business\\validator\\history\\createhistoryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -59,24 +211,8 @@
       "RelativeMoniker": "D:0:0:{FB8A7FA6-3F73-463E-AB53-EEF18E0D2020}|test.entity\\test.entity.csproj|solutionrelative:test.entity\\dto\\history\\createhistorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EABC434D-E988-47B5-B838-4FC431BAA245}|test.business\\test.business.csproj|c:\\users\\rusla\\onedrive\\s\u0259n\u0259dl\u0259r\\full-stack\\test\\testapi\\test.business\\test.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{EABC434D-E988-47B5-B838-4FC431BAA245}|test.business\\test.business.csproj|solutionrelative:test.business\\test.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2ADDD497-181F-4C04-B6D7-453C4C2284B1}|test.data\\test.data.csproj|c:\\users\\rusla\\onedrive\\s\u0259n\u0259dl\u0259r\\full-stack\\test\\testapi\\test.data\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2ADDD497-181F-4C04-B6D7-453C4C2284B1}|test.data\\test.data.csproj|solutionrelative:test.data\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2ADDD497-181F-4C04-B6D7-453C4C2284B1}|test.data\\test.data.csproj|c:\\users\\rusla\\onedrive\\s\u0259n\u0259dl\u0259r\\full-stack\\test\\testapi\\test.data\\designtimedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2ADDD497-181F-4C04-B6D7-453C4C2284B1}|test.data\\test.data.csproj|solutionrelative:test.data\\designtimedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2ADDD497-181F-4C04-B6D7-453C4C2284B1}|test.data\\test.data.csproj|c:\\users\\rusla\\onedrive\\s\u0259n\u0259dl\u0259r\\full-stack\\test\\testapi\\test.data\\concrete\\history\\historywriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2ADDD497-181F-4C04-B6D7-453C4C2284B1}|test.data\\test.data.csproj|solutionrelative:test.data\\concrete\\history\\historywriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2ADDD497-181F-4C04-B6D7-453C4C2284B1}|test.data\\test.data.csproj|c:\\users\\rusla\\onedrive\\s\u0259n\u0259dl\u0259r\\full-stack\\test\\testapi\\test.data\\concrete\\history\\historyreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2ADDD497-181F-4C04-B6D7-453C4C2284B1}|test.data\\test.data.csproj|solutionrelative:test.data\\concrete\\history\\historyreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2ADDD497-181F-4C04-B6D7-453C4C2284B1}|test.data\\test.data.csproj|c:\\users\\rusla\\onedrive\\s\u0259n\u0259dl\u0259r\\full-stack\\test\\testapi\\test.data\\abstract\\history\\ihistorywriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -91,16 +227,8 @@
       "RelativeMoniker": "D:0:0:{2ADDD497-181F-4C04-B6D7-453C4C2284B1}|test.data\\test.data.csproj|solutionrelative:test.data\\abstract\\tags\\itagsreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2ADDD497-181F-4C04-B6D7-453C4C2284B1}|test.data\\test.data.csproj|c:\\users\\rusla\\onedrive\\s\u0259n\u0259dl\u0259r\\full-stack\\test\\testapi\\test.data\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2ADDD497-181F-4C04-B6D7-453C4C2284B1}|test.data\\test.data.csproj|solutionrelative:test.data\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FB8A7FA6-3F73-463E-AB53-EEF18E0D2020}|test.entity\\test.entity.csproj|c:\\users\\rusla\\onedrive\\s\u0259n\u0259dl\u0259r\\full-stack\\test\\testapi\\test.entity\\entities\\history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FB8A7FA6-3F73-463E-AB53-EEF18E0D2020}|test.entity\\test.entity.csproj|solutionrelative:test.entity\\entities\\history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB8A7FA6-3F73-463E-AB53-EEF18E0D2020}|test.entity\\test.entity.csproj|c:\\users\\rusla\\onedrive\\s\u0259n\u0259dl\u0259r\\full-stack\\test\\testapi\\test.entity\\test.entity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{FB8A7FA6-3F73-463E-AB53-EEF18E0D2020}|test.entity\\test.entity.csproj|solutionrelative:test.entity\\test.entity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BDFB8A0C-50E3-435E-A384-BDE53FF01508}|test.api\\test.api.csproj|c:\\users\\rusla\\onedrive\\s\u0259n\u0259dl\u0259r\\full-stack\\test\\testapi\\test.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -113,18 +241,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{FB8A7FA6-3F73-463E-AB53-EEF18E0D2020}|test.entity\\test.entity.csproj|c:\\users\\rusla\\onedrive\\s\u0259n\u0259dl\u0259r\\full-stack\\test\\testapi\\test.entity\\entities\\customers\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FB8A7FA6-3F73-463E-AB53-EEF18E0D2020}|test.entity\\test.entity.csproj|solutionrelative:test.entity\\entities\\customers\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB8A7FA6-3F73-463E-AB53-EEF18E0D2020}|test.entity\\test.entity.csproj|c:\\users\\rusla\\onedrive\\s\u0259n\u0259dl\u0259r\\full-stack\\test\\testapi\\test.entity\\entities\\tags.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB8A7FA6-3F73-463E-AB53-EEF18E0D2020}|test.entity\\test.entity.csproj|solutionrelative:test.entity\\entities\\tags.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2ADDD497-181F-4C04-B6D7-453C4C2284B1}|test.data\\test.data.csproj|c:\\users\\rusla\\onedrive\\s\u0259n\u0259dl\u0259r\\full-stack\\test\\testapi\\test.data\\concrete\\readrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2ADDD497-181F-4C04-B6D7-453C4C2284B1}|test.data\\test.data.csproj|solutionrelative:test.data\\concrete\\readrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2ADDD497-181F-4C04-B6D7-453C4C2284B1}|test.data\\test.data.csproj|c:\\users\\rusla\\onedrive\\s\u0259n\u0259dl\u0259r\\full-stack\\test\\testapi\\test.data\\test.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{2ADDD497-181F-4C04-B6D7-453C4C2284B1}|test.data\\test.data.csproj|solutionrelative:test.data\\test.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2ADDD497-181F-4C04-B6D7-453C4C2284B1}|test.data\\test.data.csproj|c:\\users\\rusla\\onedrive\\s\u0259n\u0259dl\u0259r\\full-stack\\test\\testapi\\test.data\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -143,20 +259,12 @@
       "RelativeMoniker": "D:0:0:{2ADDD497-181F-4C04-B6D7-453C4C2284B1}|test.data\\test.data.csproj|solutionrelative:test.data\\concrete\\tags\\tagswriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2ADDD497-181F-4C04-B6D7-453C4C2284B1}|test.data\\test.data.csproj|c:\\users\\rusla\\onedrive\\s\u0259n\u0259dl\u0259r\\full-stack\\test\\testapi\\test.data\\concrete\\tags\\tagsreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2ADDD497-181F-4C04-B6D7-453C4C2284B1}|test.data\\test.data.csproj|solutionrelative:test.data\\concrete\\tags\\tagsreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2ADDD497-181F-4C04-B6D7-453C4C2284B1}|test.data\\test.data.csproj|c:\\users\\rusla\\onedrive\\s\u0259n\u0259dl\u0259r\\full-stack\\test\\testapi\\test.data\\abstract\\tags\\itagswriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2ADDD497-181F-4C04-B6D7-453C4C2284B1}|test.data\\test.data.csproj|solutionrelative:test.data\\abstract\\tags\\itagswriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2ADDD497-181F-4C04-B6D7-453C4C2284B1}|test.data\\test.data.csproj|c:\\users\\rusla\\onedrive\\s\u0259n\u0259dl\u0259r\\full-stack\\test\\testapi\\test.data\\abstract\\ireadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2ADDD497-181F-4C04-B6D7-453C4C2284B1}|test.data\\test.data.csproj|solutionrelative:test.data\\abstract\\ireadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2ADDD497-181F-4C04-B6D7-453C4C2284B1}|test.data\\test.data.csproj|c:\\users\\rusla\\onedrive\\s\u0259n\u0259dl\u0259r\\full-stack\\test\\testapi\\test.data\\concrete\\writerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2ADDD497-181F-4C04-B6D7-453C4C2284B1}|test.data\\test.data.csproj|solutionrelative:test.data\\concrete\\writerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2ADDD497-181F-4C04-B6D7-453C4C2284B1}|test.data\\test.data.csproj|c:\\users\\rusla\\onedrive\\s\u0259n\u0259dl\u0259r\\full-stack\\test\\testapi\\test.data\\abstract\\iwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -167,16 +275,24 @@
       "RelativeMoniker": "D:0:0:{2ADDD497-181F-4C04-B6D7-453C4C2284B1}|test.data\\test.data.csproj|solutionrelative:test.data\\abstract\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB8A7FA6-3F73-463E-AB53-EEF18E0D2020}|test.entity\\test.entity.csproj|c:\\users\\rusla\\onedrive\\s\u0259n\u0259dl\u0259r\\full-stack\\test\\testapi\\test.entity\\entities\\wishlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB8A7FA6-3F73-463E-AB53-EEF18E0D2020}|test.entity\\test.entity.csproj|solutionrelative:test.entity\\entities\\wishlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BDFB8A0C-50E3-435E-A384-BDE53FF01508}|test.api\\test.api.csproj|c:\\users\\rusla\\onedrive\\s\u0259n\u0259dl\u0259r\\full-stack\\test\\testapi\\test.api\\controllers\\historycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDFB8A0C-50E3-435E-A384-BDE53FF01508}|test.api\\test.api.csproj|solutionrelative:test.api\\controllers\\historycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2ADDD497-181F-4C04-B6D7-453C4C2284B1}|test.data\\test.data.csproj|c:\\users\\rusla\\onedrive\\s\u0259n\u0259dl\u0259r\\full-stack\\test\\testapi\\test.data\\migrations\\20241011073505_mg_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2ADDD497-181F-4C04-B6D7-453C4C2284B1}|test.data\\test.data.csproj|solutionrelative:test.data\\migrations\\20241011073505_mg_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BDFB8A0C-50E3-435E-A384-BDE53FF01508}|test.api\\test.api.csproj|c:\\users\\rusla\\onedrive\\s\u0259n\u0259dl\u0259r\\full-stack\\test\\testapi\\test.api\\controllers\\requestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDFB8A0C-50E3-435E-A384-BDE53FF01508}|test.api\\test.api.csproj|solutionrelative:test.api\\controllers\\requestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2ADDD497-181F-4C04-B6D7-453C4C2284B1}|test.data\\test.data.csproj|c:\\users\\rusla\\onedrive\\s\u0259n\u0259dl\u0259r\\full-stack\\test\\testapi\\test.data\\migrations\\20241013104719_mg_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2ADDD497-181F-4C04-B6D7-453C4C2284B1}|test.data\\test.data.csproj|solutionrelative:test.data\\migrations\\20241013104719_mg_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\Migrations\\20241017144953_mg_8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:test.data\\Migrations\\20241017144953_mg_8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADDD497-181F-4C04-B6D7-453C4C2284B1}|test.data\\test.data.csproj|c:\\users\\rusla\\onedrive\\s\u0259n\u0259dl\u0259r\\full-stack\\test\\testapi\\test.data\\migrations\\20241018182816_adddatabasesqlserverdbcontextupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ADDD497-181F-4C04-B6D7-453C4C2284B1}|test.data\\test.data.csproj|solutionrelative:test.data\\migrations\\20241018182816_adddatabasesqlserverdbcontextupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADDD497-181F-4C04-B6D7-453C4C2284B1}|test.data\\test.data.csproj|c:\\users\\rusla\\onedrive\\s\u0259n\u0259dl\u0259r\\full-stack\\test\\testapi\\test.data\\migrations\\20241018180901_adddatabasesqlserverdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ADDD497-181F-4C04-B6D7-453C4C2284B1}|test.data\\test.data.csproj|solutionrelative:test.data\\migrations\\20241018180901_adddatabasesqlserverdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -186,241 +302,219 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "HistoryController.cs",
-              "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.api\\Controllers\\HistoryController.cs",
-              "RelativeDocumentMoniker": "test.api\\Controllers\\HistoryController.cs",
-              "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.api\\Controllers\\HistoryController.cs",
-              "RelativeToolTip": "test.api\\Controllers\\HistoryController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "TagsCheckboxService.cs",
+              "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.business\\Concrete\\TagsCheckboxService.cs",
+              "RelativeDocumentMoniker": "test.business\\Concrete\\TagsCheckboxService.cs",
+              "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.business\\Concrete\\TagsCheckboxService.cs",
+              "RelativeToolTip": "test.business\\Concrete\\TagsCheckboxService.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAwwDUAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T11:19:02.388Z"
+              "WhenOpened": "2024-10-20T11:46:57.911Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ValidationFilter.cs",
-              "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\Filter\\ValidationFilter.cs",
-              "RelativeDocumentMoniker": "test.data\\Filter\\ValidationFilter.cs",
-              "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\Filter\\ValidationFilter.cs",
-              "RelativeToolTip": "test.data\\Filter\\ValidationFilter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "TagsCheckboxReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\Concrete\\TagsCheckbox\\TagsCheckboxReadRepository.cs",
+              "RelativeDocumentMoniker": "test.data\\Concrete\\TagsCheckbox\\TagsCheckboxReadRepository.cs",
+              "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\Concrete\\TagsCheckbox\\TagsCheckboxReadRepository.cs",
+              "RelativeToolTip": "test.data\\Concrete\\TagsCheckbox\\TagsCheckboxReadRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T07:17:53.878Z"
+              "WhenOpened": "2024-10-20T11:25:21.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TagsCheckboxWriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\Concrete\\TagsCheckbox\\TagsCheckboxWriteRepository.cs",
+              "RelativeDocumentMoniker": "test.data\\Concrete\\TagsCheckbox\\TagsCheckboxWriteRepository.cs",
+              "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\Concrete\\TagsCheckbox\\TagsCheckboxWriteRepository.cs",
+              "RelativeToolTip": "test.data\\Concrete\\TagsCheckbox\\TagsCheckboxWriteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T11:25:35.078Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "IHistoryService.cs",
-              "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.business\\Abstract\\IHistoryService.cs",
-              "RelativeDocumentMoniker": "test.business\\Abstract\\IHistoryService.cs",
-              "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.business\\Abstract\\IHistoryService.cs",
-              "RelativeToolTip": "test.business\\Abstract\\IHistoryService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Title": "ITagsCheckboxReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\Abstract\\TagsCheckbox\\ITagsCheckboxReadRepository.cs",
+              "RelativeDocumentMoniker": "test.data\\Abstract\\TagsCheckbox\\ITagsCheckboxReadRepository.cs",
+              "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\Abstract\\TagsCheckbox\\ITagsCheckboxReadRepository.cs",
+              "RelativeToolTip": "test.data\\Abstract\\TagsCheckbox\\ITagsCheckboxReadRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T10:56:18.871Z"
+              "WhenOpened": "2024-10-20T11:32:20.985Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "ITagsCheckboxWriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\Abstract\\TagsCheckbox\\ITagsCheckboxWriteRepository.cs",
+              "RelativeDocumentMoniker": "test.data\\Abstract\\TagsCheckbox\\ITagsCheckboxWriteRepository.cs",
+              "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\Abstract\\TagsCheckbox\\ITagsCheckboxWriteRepository.cs",
+              "RelativeToolTip": "test.data\\Abstract\\TagsCheckbox\\ITagsCheckboxWriteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T11:33:26.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TagsCheckboxController.cs",
+              "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.api\\Controllers\\TagsCheckboxController.cs",
+              "RelativeDocumentMoniker": "test.api\\Controllers\\TagsCheckboxController.cs",
+              "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.api\\Controllers\\TagsCheckboxController.cs",
+              "RelativeToolTip": "test.api\\Controllers\\TagsCheckboxController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T11:19:19.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\Concrete\\ReadRepository.cs",
+              "RelativeDocumentMoniker": "test.data\\Concrete\\ReadRepository.cs",
+              "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\Concrete\\ReadRepository.cs",
+              "RelativeToolTip": "test.data\\Concrete\\ReadRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwCAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T15:55:41.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.business\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "test.business\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.business\\ServiceRegistration.cs",
+              "RelativeToolTip": "test.business\\ServiceRegistration.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAtwBAAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T06:19:56.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "test.data\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\ServiceRegistration.cs",
+              "RelativeToolTip": "test.data\\ServiceRegistration.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAIwCQAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T15:45:53.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "TagsController.cs",
               "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.api\\Controllers\\TagsController.cs",
               "RelativeDocumentMoniker": "test.api\\Controllers\\TagsController.cs",
               "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.api\\Controllers\\TagsController.cs",
               "RelativeToolTip": "test.api\\Controllers\\TagsController.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAAAD0AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABQAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-11T06:50:02.807Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ServiceRegistration.cs",
-              "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.business\\ServiceRegistration.cs",
-              "RelativeDocumentMoniker": "test.business\\ServiceRegistration.cs",
-              "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.business\\ServiceRegistration.cs",
-              "RelativeToolTip": "test.business\\ServiceRegistration.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAtwA8AAAAJAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "20241021161456_mg_3.cs",
+              "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\Migrations\\20241021161456_mg_3.cs",
+              "RelativeDocumentMoniker": "test.data\\Migrations\\20241021161456_mg_3.cs",
+              "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\Migrations\\20241021161456_mg_3.cs",
+              "RelativeToolTip": "test.data\\Migrations\\20241021161456_mg_3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T06:19:56.377Z"
+              "WhenOpened": "2024-10-21T16:14:57.241Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "test.api.csproj",
-              "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.api\\test.api.csproj",
-              "RelativeDocumentMoniker": "test.api\\test.api.csproj",
-              "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.api\\test.api.csproj",
-              "RelativeToolTip": "test.api\\test.api.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-10T16:49:37.87Z"
+              "DocumentIndex": 12,
+              "Title": "TagsCheckboxes.cs",
+              "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.entity\\Entities\\TagsCheckboxes.cs",
+              "RelativeDocumentMoniker": "test.entity\\Entities\\TagsCheckboxes.cs",
+              "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.entity\\Entities\\TagsCheckboxes.cs",
+              "RelativeToolTip": "test.entity\\Entities\\TagsCheckboxes.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAawBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:11:22.497Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "test.data\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "test.data\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwBUAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T15:30:21.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TagsReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\Concrete\\Tags\\TagsReadRepository.cs",
+              "RelativeDocumentMoniker": "test.data\\Concrete\\Tags\\TagsReadRepository.cs",
+              "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\Concrete\\Tags\\TagsReadRepository.cs",
+              "RelativeToolTip": "test.data\\Concrete\\Tags\\TagsReadRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T16:43:44.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ITagsCheckboxService.cs",
+              "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.business\\Abstract\\ITagsCheckboxService.cs",
+              "RelativeDocumentMoniker": "test.business\\Abstract\\ITagsCheckboxService.cs",
+              "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.business\\Abstract\\ITagsCheckboxService.cs",
+              "RelativeToolTip": "test.business\\Abstract\\ITagsCheckboxService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T11:35:50.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "ITagsService.cs",
               "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.business\\Abstract\\ITagsService.cs",
               "RelativeDocumentMoniker": "test.business\\Abstract\\ITagsService.cs",
               "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.business\\Abstract\\ITagsService.cs",
               "RelativeToolTip": "test.business\\Abstract\\ITagsService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T06:22:29.192Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TagsService.cs",
-              "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.business\\Concrete\\TagsService.cs",
-              "RelativeDocumentMoniker": "test.business\\Concrete\\TagsService.cs",
-              "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.business\\Concrete\\TagsService.cs",
-              "RelativeToolTip": "test.business\\Concrete\\TagsService.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAAAD0AAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T06:29:57.29Z",
+              "WhenOpened": "2024-10-11T06:22:29.192Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.api\\Program.cs",
-              "RelativeDocumentMoniker": "test.api\\Program.cs",
-              "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.api\\Program.cs",
-              "RelativeToolTip": "test.api\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T16:49:23.282Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "HistoryService.cs",
-              "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.business\\Concrete\\HistoryService.cs",
-              "RelativeDocumentMoniker": "test.business\\Concrete\\HistoryService.cs",
-              "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.business\\Concrete\\HistoryService.cs",
-              "RelativeToolTip": "test.business\\Concrete\\HistoryService.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAwwEMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T11:06:57.113Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CreateTagsValidator.cs",
-              "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.business\\Validator\\Tags\\CreateTagsValidator.cs",
-              "RelativeDocumentMoniker": "test.business\\Validator\\Tags\\CreateTagsValidator.cs",
-              "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.business\\Validator\\Tags\\CreateTagsValidator.cs",
-              "RelativeToolTip": "test.business\\Validator\\Tags\\CreateTagsValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T07:22:22.751Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CreateHistoryValidator.cs",
-              "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.business\\Validator\\History\\CreateHistoryValidator.cs",
-              "RelativeDocumentMoniker": "test.business\\Validator\\History\\CreateHistoryValidator.cs",
-              "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.business\\Validator\\History\\CreateHistoryValidator.cs",
-              "RelativeToolTip": "test.business\\Validator\\History\\CreateHistoryValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T11:03:00.427Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "UpdateHistoryDto.cs",
-              "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.entity\\Dto\\History\\UpdateHistoryDto.cs",
-              "RelativeDocumentMoniker": "test.entity\\Dto\\History\\UpdateHistoryDto.cs",
-              "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.entity\\Dto\\History\\UpdateHistoryDto.cs",
-              "RelativeToolTip": "test.entity\\Dto\\History\\UpdateHistoryDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T11:01:17.526Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "CreateHistoryDto.cs",
-              "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.entity\\Dto\\History\\CreateHistoryDto.cs",
-              "RelativeDocumentMoniker": "test.entity\\Dto\\History\\CreateHistoryDto.cs",
-              "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.entity\\Dto\\History\\CreateHistoryDto.cs",
-              "RelativeToolTip": "test.entity\\Dto\\History\\CreateHistoryDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T11:00:41.055Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "HistoryWriteRepository.cs",
-              "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\Concrete\\History\\HistoryWriteRepository.cs",
-              "RelativeDocumentMoniker": "test.data\\Concrete\\History\\HistoryWriteRepository.cs",
-              "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\Concrete\\History\\HistoryWriteRepository.cs",
-              "RelativeToolTip": "test.data\\Concrete\\History\\HistoryWriteRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T10:49:03.028Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "HistoryReadRepository.cs",
-              "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\Concrete\\History\\HistoryReadRepository.cs",
-              "RelativeDocumentMoniker": "test.data\\Concrete\\History\\HistoryReadRepository.cs",
-              "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\Concrete\\History\\HistoryReadRepository.cs",
-              "RelativeToolTip": "test.data\\Concrete\\History\\HistoryReadRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T10:48:43.102Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "IHistoryWriteRepository.cs",
-              "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\Abstract\\History\\IHistoryWriteRepository.cs",
-              "RelativeDocumentMoniker": "test.data\\Abstract\\History\\IHistoryWriteRepository.cs",
-              "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\Abstract\\History\\IHistoryWriteRepository.cs",
-              "RelativeToolTip": "test.data\\Abstract\\History\\IHistoryWriteRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T10:51:42.813Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "DesignTimeDbContextFactory.cs",
-              "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\DesignTimeDbContextFactory.cs",
-              "RelativeDocumentMoniker": "test.data\\DesignTimeDbContextFactory.cs",
-              "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\DesignTimeDbContextFactory.cs",
-              "RelativeToolTip": "test.data\\DesignTimeDbContextFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T15:40:50.541Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ServiceRegistration.cs",
-              "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\ServiceRegistration.cs",
-              "RelativeDocumentMoniker": "test.data\\ServiceRegistration.cs",
-              "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\ServiceRegistration.cs",
-              "RelativeToolTip": "test.data\\ServiceRegistration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T15:45:53.566Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
               "Title": "test.business.csproj",
               "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.business\\test.business.csproj",
               "RelativeDocumentMoniker": "test.business\\test.business.csproj",
@@ -432,127 +526,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "IHistoryReadRepository.cs",
-              "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\Abstract\\History\\IHistoryReadRepository.cs",
-              "RelativeDocumentMoniker": "test.data\\Abstract\\History\\IHistoryReadRepository.cs",
-              "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\Abstract\\History\\IHistoryReadRepository.cs",
-              "RelativeToolTip": "test.data\\Abstract\\History\\IHistoryReadRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T10:49:37.46Z"
+              "DocumentIndex": 17,
+              "Title": "test.data.csproj",
+              "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\test.data.csproj",
+              "RelativeDocumentMoniker": "test.data\\test.data.csproj",
+              "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\test.data.csproj",
+              "RelativeToolTip": "test.data\\test.data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-10T15:28:25.463Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "ITagsReadRepository.cs",
-              "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\Abstract\\Tags\\ITagsReadRepository.cs",
-              "RelativeDocumentMoniker": "test.data\\Abstract\\Tags\\ITagsReadRepository.cs",
-              "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\Abstract\\Tags\\ITagsReadRepository.cs",
-              "RelativeToolTip": "test.data\\Abstract\\Tags\\ITagsReadRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T16:40:06.44Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "20241013104719_mg_2.cs",
-              "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\Migrations\\20241013104719_mg_2.cs",
-              "RelativeDocumentMoniker": "test.data\\Migrations\\20241013104719_mg_2.cs",
-              "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\Migrations\\20241013104719_mg_2.cs",
-              "RelativeToolTip": "test.data\\Migrations\\20241013104719_mg_2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T10:47:19.627Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "History.cs",
-              "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.entity\\Entities\\History.cs",
-              "RelativeDocumentMoniker": "test.entity\\Entities\\History.cs",
-              "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.entity\\Entities\\History.cs",
-              "RelativeToolTip": "test.entity\\Entities\\History.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T10:45:06.659Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.api\\appsettings.json",
-              "RelativeDocumentMoniker": "test.api\\appsettings.json",
-              "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.api\\appsettings.json",
-              "RelativeToolTip": "test.api\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-11T07:30:00.432Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "ReadRepository.cs",
-              "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\Concrete\\ReadRepository.cs",
-              "RelativeDocumentMoniker": "test.data\\Concrete\\ReadRepository.cs",
-              "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\Concrete\\ReadRepository.cs",
-              "RelativeToolTip": "test.data\\Concrete\\ReadRepository.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAkwCoAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T15:55:41.724Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.entity\\Entities\\Customers\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "test.entity\\Entities\\Customers\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.entity\\Entities\\Customers\\BaseEntity.cs",
-              "RelativeToolTip": "test.entity\\Entities\\Customers\\BaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T16:06:12.346Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "Tags.cs",
-              "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.entity\\Entities\\Tags.cs",
-              "RelativeDocumentMoniker": "test.entity\\Entities\\Tags.cs",
-              "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.entity\\Entities\\Tags.cs",
-              "RelativeToolTip": "test.entity\\Entities\\Tags.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T06:26:58.41Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.api\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "test.api\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.api\\Properties\\launchSettings.json",
-              "RelativeToolTip": "test.api\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAgwA4AAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-10T17:31:12.78Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\Context\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "test.data\\Context\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\Context\\AppDbContext.cs",
-              "RelativeToolTip": "test.data\\Context\\AppDbContext.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T15:30:21.95Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 18,
               "Title": "test.entity.csproj",
               "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.entity\\test.entity.csproj",
               "RelativeDocumentMoniker": "test.entity\\test.entity.csproj",
@@ -564,19 +550,558 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "test.data.csproj",
-              "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\test.data.csproj",
-              "RelativeDocumentMoniker": "test.data\\test.data.csproj",
-              "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\test.data.csproj",
-              "RelativeToolTip": "test.data\\test.data.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABWAAAAAAAAAA==",
+              "DocumentIndex": 19,
+              "Title": "20241020153122_mg_2.cs",
+              "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\Migrations\\20241020153122_mg_2.cs",
+              "RelativeDocumentMoniker": "test.data\\Migrations\\20241020153122_mg_2.cs",
+              "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\Migrations\\20241020153122_mg_2.cs",
+              "RelativeToolTip": "test.data\\Migrations\\20241020153122_mg_2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T15:31:23.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.api\\Program.cs",
+              "RelativeDocumentMoniker": "test.api\\Program.cs",
+              "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.api\\Program.cs",
+              "RelativeToolTip": "test.api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T16:49:23.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UpdateTagsCheckboxDto.cs",
+              "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.entity\\Dto\\TagsCheckbox\\UpdateTagsCheckboxDto.cs",
+              "RelativeDocumentMoniker": "test.entity\\Dto\\TagsCheckbox\\UpdateTagsCheckboxDto.cs",
+              "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.entity\\Dto\\TagsCheckbox\\UpdateTagsCheckboxDto.cs",
+              "RelativeToolTip": "test.entity\\Dto\\TagsCheckbox\\UpdateTagsCheckboxDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T11:41:08.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CreateTagsCheckboxDto.cs",
+              "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.entity\\Dto\\TagsCheckbox\\CreateTagsCheckboxDto.cs",
+              "RelativeDocumentMoniker": "test.entity\\Dto\\TagsCheckbox\\CreateTagsCheckboxDto.cs",
+              "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.entity\\Dto\\TagsCheckbox\\CreateTagsCheckboxDto.cs",
+              "RelativeToolTip": "test.entity\\Dto\\TagsCheckbox\\CreateTagsCheckboxDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T11:41:44.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "test.api.csproj",
+              "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.api\\test.api.csproj",
+              "RelativeDocumentMoniker": "test.api\\test.api.csproj",
+              "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.api\\test.api.csproj",
+              "RelativeToolTip": "test.api\\test.api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-10T15:28:25.463Z"
+              "WhenOpened": "2024-10-10T16:49:37.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TagsService.cs",
+              "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.business\\Concrete\\TagsService.cs",
+              "RelativeDocumentMoniker": "test.business\\Concrete\\TagsService.cs",
+              "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.business\\Concrete\\TagsService.cs",
+              "RelativeToolTip": "test.business\\Concrete\\TagsService.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAwDQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T06:29:57.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ValidationFilter.cs",
+              "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\Filter\\ValidationFilter.cs",
+              "RelativeDocumentMoniker": "test.data\\Filter\\ValidationFilter.cs",
+              "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\Filter\\ValidationFilter.cs",
+              "RelativeToolTip": "test.data\\Filter\\ValidationFilter.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA3wBUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T07:17:53.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "HistoryWriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\Concrete\\History\\HistoryWriteRepository.cs",
+              "RelativeDocumentMoniker": "test.data\\Concrete\\History\\HistoryWriteRepository.cs",
+              "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\Concrete\\History\\HistoryWriteRepository.cs",
+              "RelativeToolTip": "test.data\\Concrete\\History\\HistoryWriteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T10:49:03.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "HistoryReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\Concrete\\History\\HistoryReadRepository.cs",
+              "RelativeDocumentMoniker": "test.data\\Concrete\\History\\HistoryReadRepository.cs",
+              "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\Concrete\\History\\HistoryReadRepository.cs",
+              "RelativeToolTip": "test.data\\Concrete\\History\\HistoryReadRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T10:48:43.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "20241018182816_addDatabaseSqlServerDbContextUpdate.cs",
+              "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\Migrations\\20241018182816_addDatabaseSqlServerDbContextUpdate.cs",
+              "RelativeDocumentMoniker": "test.data\\Migrations\\20241018182816_addDatabaseSqlServerDbContextUpdate.cs",
+              "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\Migrations\\20241018182816_addDatabaseSqlServerDbContextUpdate.cs",
+              "RelativeToolTip": "test.data\\Migrations\\20241018182816_addDatabaseSqlServerDbContextUpdate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T18:28:17.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "WriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\Concrete\\WriteRepository.cs",
+              "RelativeDocumentMoniker": "test.data\\Concrete\\WriteRepository.cs",
+              "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\Concrete\\WriteRepository.cs",
+              "RelativeToolTip": "test.data\\Concrete\\WriteRepository.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAwEAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T15:58:20.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AppRole.cs",
+              "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.entity\\Entities\\Identity\\AppRole.cs",
+              "RelativeDocumentMoniker": "test.entity\\Entities\\Identity\\AppRole.cs",
+              "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.entity\\Entities\\Identity\\AppRole.cs",
+              "RelativeToolTip": "test.entity\\Entities\\Identity\\AppRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:21:34.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Tags.cs",
+              "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.entity\\Entities\\Tags.cs",
+              "RelativeDocumentMoniker": "test.entity\\Entities\\Tags.cs",
+              "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.entity\\Entities\\Tags.cs",
+              "RelativeToolTip": "test.entity\\Entities\\Tags.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T06:26:58.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20241017144437_mg_7.cs",
+              "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\Migrations\\20241017144437_mg_7.cs",
+              "RelativeDocumentMoniker": "test.data\\Migrations\\20241017144437_mg_7.cs",
+              "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\Migrations\\20241017144437_mg_7.cs",
+              "RelativeToolTip": "test.data\\Migrations\\20241017144437_mg_7.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T14:44:37.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "20241018180901_addDatabaseSqlServerDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\Migrations\\20241018180901_addDatabaseSqlServerDbContext.cs",
+              "RelativeDocumentMoniker": "test.data\\Migrations\\20241018180901_addDatabaseSqlServerDbContext.cs",
+              "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\Migrations\\20241018180901_addDatabaseSqlServerDbContext.cs",
+              "RelativeToolTip": "test.data\\Migrations\\20241018180901_addDatabaseSqlServerDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T18:09:02.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20241017144838_mg_6.cs",
+              "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\Migrations\\20241017144838_mg_6.cs",
+              "RelativeDocumentMoniker": "test.data\\Migrations\\20241017144838_mg_6.cs",
+              "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\Migrations\\20241017144838_mg_6.cs",
+              "RelativeToolTip": "test.data\\Migrations\\20241017144838_mg_6.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T14:48:38.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "20241017144953_mg_8.cs",
+              "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\Migrations\\20241017144953_mg_8.cs",
+              "RelativeDocumentMoniker": "test.data\\Migrations\\20241017144953_mg_8.cs",
+              "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\Migrations\\20241017144953_mg_8.cs",
+              "RelativeToolTip": "test.data\\Migrations\\20241017144953_mg_8.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T14:49:53.411Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 31,
+              "Title": "Wishlist.cs",
+              "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.entity\\Entities\\Wishlist.cs",
+              "RelativeDocumentMoniker": "test.entity\\Entities\\Wishlist.cs",
+              "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.entity\\Entities\\Wishlist.cs",
+              "RelativeToolTip": "test.entity\\Entities\\Wishlist.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T15:44:41.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.entity\\Entities\\Identity\\AppUser.cs",
+              "RelativeDocumentMoniker": "test.entity\\Entities\\Identity\\AppUser.cs",
+              "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.entity\\Entities\\Identity\\AppUser.cs",
+              "RelativeToolTip": "test.entity\\Entities\\Identity\\AppUser.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAlwA4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:21:19.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "RoleModel.cs",
+              "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.entity\\Entities\\Enum\\RoleModel.cs",
+              "RelativeDocumentMoniker": "test.entity\\Entities\\Enum\\RoleModel.cs",
+              "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.entity\\Entities\\Enum\\RoleModel.cs",
+              "RelativeToolTip": "test.entity\\Entities\\Enum\\RoleModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:22:18.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "RequestController.cs",
+              "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.api\\Controllers\\RequestController.cs",
+              "RelativeDocumentMoniker": "test.api\\Controllers\\RequestController.cs",
+              "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.api\\Controllers\\RequestController.cs",
+              "RelativeToolTip": "test.api\\Controllers\\RequestController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAowDMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T07:11:42.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "CreateRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.entity\\Dto\\Request\\CreateRequestDto.cs",
+              "RelativeDocumentMoniker": "test.entity\\Dto\\Request\\CreateRequestDto.cs",
+              "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.entity\\Dto\\Request\\CreateRequestDto.cs",
+              "RelativeToolTip": "test.entity\\Dto\\Request\\CreateRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T06:17:58.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "UpdateRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.entity\\Dto\\Request\\UpdateRequestDto.cs",
+              "RelativeDocumentMoniker": "test.entity\\Dto\\Request\\UpdateRequestDto.cs",
+              "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.entity\\Dto\\Request\\UpdateRequestDto.cs",
+              "RelativeToolTip": "test.entity\\Dto\\Request\\UpdateRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T06:18:32.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CreateRequestValidator.cs",
+              "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.business\\Validator\\Request\\CreateRequestValidator.cs",
+              "RelativeDocumentMoniker": "test.business\\Validator\\Request\\CreateRequestValidator.cs",
+              "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.business\\Validator\\Request\\CreateRequestValidator.cs",
+              "RelativeToolTip": "test.business\\Validator\\Request\\CreateRequestValidator.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAmwCsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T06:21:36.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IRequestService.cs",
+              "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.business\\Abstract\\IRequestService.cs",
+              "RelativeDocumentMoniker": "test.business\\Abstract\\IRequestService.cs",
+              "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.business\\Abstract\\IRequestService.cs",
+              "RelativeToolTip": "test.business\\Abstract\\IRequestService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T06:14:48.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "RequestService.cs",
+              "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.business\\Concrete\\RequestService.cs",
+              "RelativeDocumentMoniker": "test.business\\Concrete\\RequestService.cs",
+              "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.business\\Concrete\\RequestService.cs",
+              "RelativeToolTip": "test.business\\Concrete\\RequestService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAqwCwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T06:30:29.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Request.cs",
+              "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.entity\\Entities\\Request.cs",
+              "RelativeDocumentMoniker": "test.entity\\Entities\\Request.cs",
+              "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.entity\\Entities\\Request.cs",
+              "RelativeToolTip": "test.entity\\Entities\\Request.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T06:00:24.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CreateTagsValidator.cs",
+              "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.business\\Validator\\Tags\\CreateTagsValidator.cs",
+              "RelativeDocumentMoniker": "test.business\\Validator\\Tags\\CreateTagsValidator.cs",
+              "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.business\\Validator\\Tags\\CreateTagsValidator.cs",
+              "RelativeToolTip": "test.business\\Validator\\Tags\\CreateTagsValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T07:22:22.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "RequestWriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\Concrete\\Request\\RequestWriteRepository.cs",
+              "RelativeDocumentMoniker": "test.data\\Concrete\\Request\\RequestWriteRepository.cs",
+              "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\Concrete\\Request\\RequestWriteRepository.cs",
+              "RelativeToolTip": "test.data\\Concrete\\Request\\RequestWriteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T06:12:59.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "RequestReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\Concrete\\Request\\RequestReadRepository.cs",
+              "RelativeDocumentMoniker": "test.data\\Concrete\\Request\\RequestReadRepository.cs",
+              "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\Concrete\\Request\\RequestReadRepository.cs",
+              "RelativeToolTip": "test.data\\Concrete\\Request\\RequestReadRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T06:11:17.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "IRequestWriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\Abstract\\Request\\IRequestWriteRepository.cs",
+              "RelativeDocumentMoniker": "test.data\\Abstract\\Request\\IRequestWriteRepository.cs",
+              "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\Abstract\\Request\\IRequestWriteRepository.cs",
+              "RelativeToolTip": "test.data\\Abstract\\Request\\IRequestWriteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T06:09:31.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "IRequestReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\Abstract\\Request\\IRequestReadRepository.cs",
+              "RelativeDocumentMoniker": "test.data\\Abstract\\Request\\IRequestReadRepository.cs",
+              "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\Abstract\\Request\\IRequestReadRepository.cs",
+              "RelativeToolTip": "test.data\\Abstract\\Request\\IRequestReadRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T05:59:48.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "IHistoryService.cs",
+              "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.business\\Abstract\\IHistoryService.cs",
+              "RelativeDocumentMoniker": "test.business\\Abstract\\IHistoryService.cs",
+              "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.business\\Abstract\\IHistoryService.cs",
+              "RelativeToolTip": "test.business\\Abstract\\IHistoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T10:56:18.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "HistoryController.cs",
+              "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.api\\Controllers\\HistoryController.cs",
+              "RelativeDocumentMoniker": "test.api\\Controllers\\HistoryController.cs",
+              "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.api\\Controllers\\HistoryController.cs",
+              "RelativeToolTip": "test.api\\Controllers\\HistoryController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T11:19:02.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "HistoryService.cs",
+              "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.business\\Concrete\\HistoryService.cs",
+              "RelativeDocumentMoniker": "test.business\\Concrete\\HistoryService.cs",
+              "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.business\\Concrete\\HistoryService.cs",
+              "RelativeToolTip": "test.business\\Concrete\\HistoryService.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAwwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T11:06:57.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "CreateHistoryValidator.cs",
+              "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.business\\Validator\\History\\CreateHistoryValidator.cs",
+              "RelativeDocumentMoniker": "test.business\\Validator\\History\\CreateHistoryValidator.cs",
+              "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.business\\Validator\\History\\CreateHistoryValidator.cs",
+              "RelativeToolTip": "test.business\\Validator\\History\\CreateHistoryValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T11:03:00.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "UpdateHistoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.entity\\Dto\\History\\UpdateHistoryDto.cs",
+              "RelativeDocumentMoniker": "test.entity\\Dto\\History\\UpdateHistoryDto.cs",
+              "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.entity\\Dto\\History\\UpdateHistoryDto.cs",
+              "RelativeToolTip": "test.entity\\Dto\\History\\UpdateHistoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T11:01:17.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "CreateHistoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.entity\\Dto\\History\\CreateHistoryDto.cs",
+              "RelativeDocumentMoniker": "test.entity\\Dto\\History\\CreateHistoryDto.cs",
+              "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.entity\\Dto\\History\\CreateHistoryDto.cs",
+              "RelativeToolTip": "test.entity\\Dto\\History\\CreateHistoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T11:00:41.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "IHistoryWriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\Abstract\\History\\IHistoryWriteRepository.cs",
+              "RelativeDocumentMoniker": "test.data\\Abstract\\History\\IHistoryWriteRepository.cs",
+              "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\Abstract\\History\\IHistoryWriteRepository.cs",
+              "RelativeToolTip": "test.data\\Abstract\\History\\IHistoryWriteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T10:51:42.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "DesignTimeDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\DesignTimeDbContextFactory.cs",
+              "RelativeDocumentMoniker": "test.data\\DesignTimeDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\DesignTimeDbContextFactory.cs",
+              "RelativeToolTip": "test.data\\DesignTimeDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T15:40:50.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "IHistoryReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\Abstract\\History\\IHistoryReadRepository.cs",
+              "RelativeDocumentMoniker": "test.data\\Abstract\\History\\IHistoryReadRepository.cs",
+              "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\Abstract\\History\\IHistoryReadRepository.cs",
+              "RelativeToolTip": "test.data\\Abstract\\History\\IHistoryReadRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T10:49:37.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ITagsReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\Abstract\\Tags\\ITagsReadRepository.cs",
+              "RelativeDocumentMoniker": "test.data\\Abstract\\Tags\\ITagsReadRepository.cs",
+              "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\Abstract\\Tags\\ITagsReadRepository.cs",
+              "RelativeToolTip": "test.data\\Abstract\\Tags\\ITagsReadRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T16:40:06.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "History.cs",
+              "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.entity\\Entities\\History.cs",
+              "RelativeDocumentMoniker": "test.entity\\Entities\\History.cs",
+              "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.entity\\Entities\\History.cs",
+              "RelativeToolTip": "test.entity\\Entities\\History.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T10:45:06.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.api\\appsettings.json",
+              "RelativeDocumentMoniker": "test.api\\appsettings.json",
+              "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.api\\appsettings.json",
+              "RelativeToolTip": "test.api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-11T07:30:00.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.entity\\Entities\\Customers\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "test.entity\\Entities\\Customers\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.entity\\Entities\\Customers\\BaseEntity.cs",
+              "RelativeToolTip": "test.entity\\Entities\\Customers\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T16:06:12.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "test.api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "test.api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-10T17:31:12.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
               "Title": "Configuration.cs",
               "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\Configuration.cs",
               "RelativeDocumentMoniker": "test.data\\Configuration.cs",
@@ -588,19 +1113,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "20241011073505_mg_1.cs",
-              "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\Migrations\\20241011073505_mg_1.cs",
-              "RelativeDocumentMoniker": "test.data\\Migrations\\20241011073505_mg_1.cs",
-              "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\Migrations\\20241011073505_mg_1.cs",
-              "RelativeToolTip": "test.data\\Migrations\\20241011073505_mg_1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T07:35:06.219Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 61,
               "Title": "UpdateTagsDto.cs",
               "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.entity\\Dto\\Tags\\UpdateTagsDto.cs",
               "RelativeDocumentMoniker": "test.entity\\Dto\\Tags\\UpdateTagsDto.cs",
@@ -612,7 +1125,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 62,
               "Title": "CreateTagsDto.cs",
               "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.entity\\Dto\\Tags\\CreateTagsDto.cs",
               "RelativeDocumentMoniker": "test.entity\\Dto\\Tags\\CreateTagsDto.cs",
@@ -624,7 +1137,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 63,
               "Title": "TagsWriteRepository.cs",
               "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\Concrete\\Tags\\TagsWriteRepository.cs",
               "RelativeDocumentMoniker": "test.data\\Concrete\\Tags\\TagsWriteRepository.cs",
@@ -636,7 +1149,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 64,
               "Title": "ITagsWriteRepository.cs",
               "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\Abstract\\Tags\\ITagsWriteRepository.cs",
               "RelativeDocumentMoniker": "test.data\\Abstract\\Tags\\ITagsWriteRepository.cs",
@@ -648,31 +1161,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "TagsReadRepository.cs",
-              "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\Concrete\\Tags\\TagsReadRepository.cs",
-              "RelativeDocumentMoniker": "test.data\\Concrete\\Tags\\TagsReadRepository.cs",
-              "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\Concrete\\Tags\\TagsReadRepository.cs",
-              "RelativeToolTip": "test.data\\Concrete\\Tags\\TagsReadRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T16:43:44.85Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "WriteRepository.cs",
-              "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\Concrete\\WriteRepository.cs",
-              "RelativeDocumentMoniker": "test.data\\Concrete\\WriteRepository.cs",
-              "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\Concrete\\WriteRepository.cs",
-              "RelativeToolTip": "test.data\\Concrete\\WriteRepository.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAIBJwBoAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T15:58:20.901Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 66,
               "Title": "IWriteRepository.cs",
               "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\Abstract\\IWriteRepository.cs",
               "RelativeDocumentMoniker": "test.data\\Abstract\\IWriteRepository.cs",
@@ -684,7 +1173,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 65,
               "Title": "IReadRepository.cs",
               "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\Abstract\\IReadRepository.cs",
               "RelativeDocumentMoniker": "test.data\\Abstract\\IReadRepository.cs",
@@ -696,7 +1185,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 67,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.data\\Abstract\\IRepository.cs",
               "RelativeDocumentMoniker": "test.data\\Abstract\\IRepository.cs",
@@ -705,18 +1194,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-10T15:47:27.374Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "Wishlist.cs",
-              "DocumentMoniker": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.entity\\Entities\\Wishlist.cs",
-              "RelativeDocumentMoniker": "test.entity\\Entities\\Wishlist.cs",
-              "ToolTip": "C:\\Users\\rusla\\OneDrive\\S\u0259n\u0259dl\u0259r\\full-stack\\Test\\TestApi\\test.entity\\Entities\\Wishlist.cs",
-              "RelativeToolTip": "test.entity\\Entities\\Wishlist.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T15:44:41.783Z"
             }
           ]
         }

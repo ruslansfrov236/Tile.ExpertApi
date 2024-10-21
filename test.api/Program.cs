@@ -7,6 +7,7 @@ public class Program
 {
     public static void Main(string[] args)
     {
+       
         var builder = WebApplication.CreateBuilder(args);
 
 
@@ -22,9 +23,17 @@ public class Program
        
         builder.Services.AddEndpointsApiExplorer();
         builder.Services.AddSwaggerGen();
-        builder.Services.AddCors(options => options.AddDefaultPolicy(policy =>
-       policy.WithOrigins("http://localhost:4200").AllowAnyHeader().AllowAnyMethod().AllowCredentials()
- ));
+        builder.Services.AddCors(options =>
+        {
+            options.AddPolicy("corsPolicy", policy =>
+            {
+                policy.WithOrigins("http://localhost:4200")
+                      .AllowAnyHeader()
+                      .AllowAnyMethod()
+                      .AllowCredentials();
+            });
+        });
+
         var app = builder.Build();
 
         // Configure the HTTP request pipeline.
@@ -38,11 +47,15 @@ public class Program
 
         app.UseRouting();
 
-        app.UseCors(); 
+        app.UseCors("corsPolicy");
+       
 
         app.UseAuthorization();
-
-        
+        app.UseAuthentication();
+        app.UseEndpoints(endpoints =>
+        {
+            endpoints.MapControllers();
+        });
         app.MapControllers();
 
         app.Run();

@@ -1,15 +1,12 @@
-﻿using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;
 using test.entity.Entities;
 using test.entity.Entities.Customers;
+using test.entity.Entities.Identity;
 
 namespace test.data.Context
 {
-    public class AppDbContext:DbContext
+    public class AppDbContext : IdentityDbContext<AppUser, AppRole, string>
     {
         public AppDbContext(DbContextOptions options) : base(options)
         {
@@ -19,6 +16,10 @@ namespace test.data.Context
         public DbSet<Links> Links { get; set; }
         public DbSet<Wishlist> Wishlists { get; set; }
         public DbSet<History> History { get; set; } 
+
+        public DbSet<Request> Requests { get; set; }
+
+        public DbSet<TagsCheckboxes> TagsCheckboxes { get; set; }
         public override async Task<int> SaveChangesAsync(CancellationToken cancellationToken = default)
         {
 

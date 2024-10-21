@@ -14,4 +14,8 @@
     <ProjectReference Include="..\test.data\test.data.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Validator\TagsCheckbox\" />
+  </ItemGroup>
+
 </Project>

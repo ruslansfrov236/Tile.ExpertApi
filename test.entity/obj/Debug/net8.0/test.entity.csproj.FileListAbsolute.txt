@@ -10,3 +10,4 @@ C:\Users\rusla\OneDrive\Sənədlər\full-stack\Test\TestApi\test.entity\obj\Debu
 C:\Users\rusla\OneDrive\Sənədlər\full-stack\Test\TestApi\test.entity\obj\Debug\net8.0\test.entity.pdb
 C:\Users\rusla\OneDrive\Sənədlər\full-stack\Test\TestApi\test.entity\obj\Debug\net8.0\ref\test.entity.dll
 C:\Users\rusla\OneDrive\Sənədlər\full-stack\Test\TestApi\test.entity\obj\Debug\net8.0\test.entity.sourcelink.json
+C:\Users\rusla\OneDrive\Sənədlər\full-stack\Test\TestApi\test.entity\obj\Debug\net8.0\test.entity.csproj.AssemblyReference.cache

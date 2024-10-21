@@ -11,5 +11,10 @@ namespace test.entity.Entities
     {
 
         public string Title { get; set; }   
+
+        public TagsCheckboxes? TagsCheckbox { get; set; }
+
+      
+       
     }
 }
